@@ -1,0 +1,242 @@
+[
+  {
+    "customer_id": "C1000",
+    "name": "Customer 0",
+    "email": "customer0@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1001",
+    "name": "Customer 1",
+    "email": "customer1@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1002",
+    "name": "Customer 2",
+    "email": "customer2@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1003",
+    "name": "Customer 3",
+    "email": "customer3@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1004",
+    "name": "Customer 4",
+    "email": "customer4@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1005",
+    "name": "Customer 5",
+    "email": "customer5@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1006",
+    "name": "Customer 6",
+    "email": "customer6@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1007",
+    "name": "Customer 7",
+    "email": "customer7@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1008",
+    "name": "Customer 8",
+    "email": "customer8@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1009",
+    "name": "Customer 9",
+    "email": "customer9@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1010",
+    "name": "Customer 10",
+    "email": "customer10@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1011",
+    "name": "Customer 11",
+    "email": "customer11@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1012",
+    "name": "Customer 12",
+    "email": "customer12@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1013",
+    "name": "Customer 13",
+    "email": "customer13@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1014",
+    "name": "Customer 14",
+    "email": "customer14@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1015",
+    "name": "Customer 15",
+    "email": "customer15@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1016",
+    "name": "Customer 16",
+    "email": "customer16@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1017",
+    "name": "Customer 17",
+    "email": "customer17@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1018",
+    "name": "Customer 18",
+    "email": "customer18@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1019",
+    "name": "Customer 19",
+    "email": "customer19@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1020",
+    "name": "Customer 20",
+    "email": "customer20@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1021",
+    "name": "Customer 21",
+    "email": "customer21@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1022",
+    "name": "Customer 22",
+    "email": "customer22@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1023",
+    "name": "Customer 23",
+    "email": "customer23@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1024",
+    "name": "Customer 24",
+    "email": "customer24@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1025",
+    "name": "Customer 25",
+    "email": "customer25@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1026",
+    "name": "Customer 26",
+    "email": "customer26@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1027",
+    "name": "Customer 27",
+    "email": "customer27@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1028",
+    "name": "Customer 28",
+    "email": "customer28@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1029",
+    "name": "Customer 29",
+    "email": "customer29@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1030",
+    "name": "Customer 30",
+    "email": "customer30@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1031",
+    "name": "Customer 31",
+    "email": "customer31@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1032",
+    "name": "Customer 32",
+    "email": "customer32@example.com",
+    "loyalty": "gold"
+  },
+  {
+    "customer_id": "C1033",
+    "name": "Customer 33",
+    "email": "customer33@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1034",
+    "name": "Customer 34",
+    "email": "customer34@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1035",
+    "name": "Customer 35",
+    "email": "customer35@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1036",
+    "name": "Customer 36",
+    "email": "customer36@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1037",
+    "name": "Customer 37",
+    "email": "customer37@example.com",
+    "loyalty": "silver"
+  },
+  {
+    "customer_id": "C1038",
+    "name": "Customer 38",
+    "email": "customer38@example.com",
+    "loyalty": "bronze"
+  },
+  {
+    "customer_id": "C1039",
+    "name": "Customer 39",
+    "email": "customer39@example.com",
+    "loyalty": "bronze"
+  }
+]

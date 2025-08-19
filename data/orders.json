@@ -1,0 +1,482 @@
+[
+  {
+    "order_id": "O2000",
+    "customer_id": "C1031",
+    "product": "Aurora Headphones",
+    "status": "returned",
+    "last_update": "2025-08-11T19:39:17.403755",
+    "total_amount": 80.22
+  },
+  {
+    "order_id": "O2001",
+    "customer_id": "C1005",
+    "product": "Nimbus Keyboard",
+    "status": "cancelled",
+    "last_update": "2025-08-13T19:39:17.403755",
+    "total_amount": 87.39
+  },
+  {
+    "order_id": "O2002",
+    "customer_id": "C1018",
+    "product": "Aurora Headphones",
+    "status": "cancelled",
+    "last_update": "2025-08-07T19:39:17.403755",
+    "total_amount": 41.94
+  },
+  {
+    "order_id": "O2003",
+    "customer_id": "C1036",
+    "product": "Luma Lamp",
+    "status": "processing",
+    "last_update": "2025-08-15T19:39:17.403755",
+    "total_amount": 185.73
+  },
+  {
+    "order_id": "O2004",
+    "customer_id": "C1001",
+    "product": "Luma Lamp",
+    "status": "shipped",
+    "last_update": "2025-08-12T19:39:17.403755",
+    "total_amount": 169.45
+  },
+  {
+    "order_id": "O2005",
+    "customer_id": "C1033",
+    "product": "Terra Bottle",
+    "status": "shipped",
+    "last_update": "2025-08-02T19:39:17.403755",
+    "total_amount": 72.41
+  },
+  {
+    "order_id": "O2006",
+    "customer_id": "C1036",
+    "product": "Bolt Charger",
+    "status": "cancelled",
+    "last_update": "2025-07-31T19:39:17.403755",
+    "total_amount": 44.88
+  },
+  {
+    "order_id": "O2007",
+    "customer_id": "C1026",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-08-14T19:39:17.403755",
+    "total_amount": 189.07
+  },
+  {
+    "order_id": "O2008",
+    "customer_id": "C1032",
+    "product": "Nimbus Keyboard",
+    "status": "returned",
+    "last_update": "2025-08-10T19:39:17.403755",
+    "total_amount": 205.36
+  },
+  {
+    "order_id": "O2009",
+    "customer_id": "C1018",
+    "product": "Bolt Charger",
+    "status": "shipped",
+    "last_update": "2025-08-13T19:39:17.403755",
+    "total_amount": 119.44
+  },
+  {
+    "order_id": "O2010",
+    "customer_id": "C1007",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-08-05T19:39:17.403755",
+    "total_amount": 243.8
+  },
+  {
+    "order_id": "O2011",
+    "customer_id": "C1001",
+    "product": "Bolt Charger",
+    "status": "delivered",
+    "last_update": "2025-07-22T19:39:17.403755",
+    "total_amount": 124.46
+  },
+  {
+    "order_id": "O2012",
+    "customer_id": "C1018",
+    "product": "Aurora Headphones",
+    "status": "processing",
+    "last_update": "2025-07-25T19:39:17.403755",
+    "total_amount": 202.27
+  },
+  {
+    "order_id": "O2013",
+    "customer_id": "C1004",
+    "product": "Terra Bottle",
+    "status": "delivered",
+    "last_update": "2025-07-27T19:39:17.403755",
+    "total_amount": 20.54
+  },
+  {
+    "order_id": "O2014",
+    "customer_id": "C1010",
+    "product": "Nimbus Keyboard",
+    "status": "shipped",
+    "last_update": "2025-07-25T19:39:17.403755",
+    "total_amount": 71.53
+  },
+  {
+    "order_id": "O2015",
+    "customer_id": "C1006",
+    "product": "Bolt Charger",
+    "status": "shipped",
+    "last_update": "2025-07-30T19:39:17.403755",
+    "total_amount": 78.38
+  },
+  {
+    "order_id": "O2016",
+    "customer_id": "C1011",
+    "product": "Luma Lamp",
+    "status": "shipped",
+    "last_update": "2025-07-28T19:39:17.403755",
+    "total_amount": 139.48
+  },
+  {
+    "order_id": "O2017",
+    "customer_id": "C1016",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-07-23T19:39:17.403755",
+    "total_amount": 249.99
+  },
+  {
+    "order_id": "O2018",
+    "customer_id": "C1009",
+    "product": "Luma Lamp",
+    "status": "delivered",
+    "last_update": "2025-07-30T19:39:17.403755",
+    "total_amount": 124.4
+  },
+  {
+    "order_id": "O2019",
+    "customer_id": "C1014",
+    "product": "Bolt Charger",
+    "status": "processing",
+    "last_update": "2025-07-27T19:39:17.403755",
+    "total_amount": 91.37
+  },
+  {
+    "order_id": "O2020",
+    "customer_id": "C1038",
+    "product": "Aurora Headphones",
+    "status": "shipped",
+    "last_update": "2025-07-21T19:39:17.403755",
+    "total_amount": 203.7
+  },
+  {
+    "order_id": "O2021",
+    "customer_id": "C1020",
+    "product": "Terra Bottle",
+    "status": "cancelled",
+    "last_update": "2025-08-19T19:39:17.403755",
+    "total_amount": 105.95
+  },
+  {
+    "order_id": "O2022",
+    "customer_id": "C1025",
+    "product": "Aurora Headphones",
+    "status": "shipped",
+    "last_update": "2025-08-03T19:39:17.403755",
+    "total_amount": 50.72
+  },
+  {
+    "order_id": "O2023",
+    "customer_id": "C1022",
+    "product": "Nimbus Keyboard",
+    "status": "returned",
+    "last_update": "2025-07-31T19:39:17.403755",
+    "total_amount": 35.14
+  },
+  {
+    "order_id": "O2024",
+    "customer_id": "C1016",
+    "product": "Luma Lamp",
+    "status": "shipped",
+    "last_update": "2025-08-11T19:39:17.403755",
+    "total_amount": 41.02
+  },
+  {
+    "order_id": "O2025",
+    "customer_id": "C1019",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-07-31T19:39:17.403755",
+    "total_amount": 36.65
+  },
+  {
+    "order_id": "O2026",
+    "customer_id": "C1003",
+    "product": "Bolt Charger",
+    "status": "delivered",
+    "last_update": "2025-07-29T19:39:17.403755",
+    "total_amount": 38.33
+  },
+  {
+    "order_id": "O2027",
+    "customer_id": "C1001",
+    "product": "Aurora Headphones",
+    "status": "returned",
+    "last_update": "2025-08-14T19:39:17.403755",
+    "total_amount": 77.1
+  },
+  {
+    "order_id": "O2028",
+    "customer_id": "C1038",
+    "product": "Aurora Headphones",
+    "status": "processing",
+    "last_update": "2025-07-27T19:39:17.403755",
+    "total_amount": 248.09
+  },
+  {
+    "order_id": "O2029",
+    "customer_id": "C1017",
+    "product": "Aurora Headphones",
+    "status": "returned",
+    "last_update": "2025-08-15T19:39:17.403755",
+    "total_amount": 196.74
+  },
+  {
+    "order_id": "O2030",
+    "customer_id": "C1022",
+    "product": "Terra Bottle",
+    "status": "returned",
+    "last_update": "2025-07-26T19:39:17.403755",
+    "total_amount": 211.09
+  },
+  {
+    "order_id": "O2031",
+    "customer_id": "C1006",
+    "product": "Bolt Charger",
+    "status": "shipped",
+    "last_update": "2025-08-07T19:39:17.403755",
+    "total_amount": 190.91
+  },
+  {
+    "order_id": "O2032",
+    "customer_id": "C1019",
+    "product": "Luma Lamp",
+    "status": "delivered",
+    "last_update": "2025-07-30T19:39:17.403755",
+    "total_amount": 155.06
+  },
+  {
+    "order_id": "O2033",
+    "customer_id": "C1016",
+    "product": "Terra Bottle",
+    "status": "returned",
+    "last_update": "2025-07-20T19:39:17.403755",
+    "total_amount": 69.92
+  },
+  {
+    "order_id": "O2034",
+    "customer_id": "C1010",
+    "product": "Luma Lamp",
+    "status": "returned",
+    "last_update": "2025-08-03T19:39:17.403755",
+    "total_amount": 48.28
+  },
+  {
+    "order_id": "O2035",
+    "customer_id": "C1032",
+    "product": "Bolt Charger",
+    "status": "cancelled",
+    "last_update": "2025-08-10T19:39:17.403755",
+    "total_amount": 71.08
+  },
+  {
+    "order_id": "O2036",
+    "customer_id": "C1018",
+    "product": "Terra Bottle",
+    "status": "cancelled",
+    "last_update": "2025-08-14T19:39:17.403755",
+    "total_amount": 67.04
+  },
+  {
+    "order_id": "O2037",
+    "customer_id": "C1011",
+    "product": "Aurora Headphones",
+    "status": "returned",
+    "last_update": "2025-07-24T19:39:17.403755",
+    "total_amount": 13.89
+  },
+  {
+    "order_id": "O2038",
+    "customer_id": "C1020",
+    "product": "Nimbus Keyboard",
+    "status": "shipped",
+    "last_update": "2025-08-13T19:39:17.403755",
+    "total_amount": 86.05
+  },
+  {
+    "order_id": "O2039",
+    "customer_id": "C1005",
+    "product": "Nimbus Keyboard",
+    "status": "cancelled",
+    "last_update": "2025-08-11T19:39:17.403755",
+    "total_amount": 39.92
+  },
+  {
+    "order_id": "O2040",
+    "customer_id": "C1010",
+    "product": "Terra Bottle",
+    "status": "processing",
+    "last_update": "2025-08-16T19:39:17.403755",
+    "total_amount": 164.83
+  },
+  {
+    "order_id": "O2041",
+    "customer_id": "C1000",
+    "product": "Terra Bottle",
+    "status": "returned",
+    "last_update": "2025-07-21T19:39:17.403755",
+    "total_amount": 176.41
+  },
+  {
+    "order_id": "O2042",
+    "customer_id": "C1031",
+    "product": "Terra Bottle",
+    "status": "shipped",
+    "last_update": "2025-08-13T19:39:17.403755",
+    "total_amount": 21.94
+  },
+  {
+    "order_id": "O2043",
+    "customer_id": "C1003",
+    "product": "Terra Bottle",
+    "status": "delivered",
+    "last_update": "2025-08-05T19:39:17.403755",
+    "total_amount": 25.53
+  },
+  {
+    "order_id": "O2044",
+    "customer_id": "C1036",
+    "product": "Terra Bottle",
+    "status": "returned",
+    "last_update": "2025-08-03T19:39:17.403755",
+    "total_amount": 21.09
+  },
+  {
+    "order_id": "O2045",
+    "customer_id": "C1025",
+    "product": "Aurora Headphones",
+    "status": "shipped",
+    "last_update": "2025-07-28T19:39:17.403755",
+    "total_amount": 170.65
+  },
+  {
+    "order_id": "O2046",
+    "customer_id": "C1032",
+    "product": "Nimbus Keyboard",
+    "status": "processing",
+    "last_update": "2025-07-27T19:39:17.403755",
+    "total_amount": 200.04
+  },
+  {
+    "order_id": "O2047",
+    "customer_id": "C1038",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-08-04T19:39:17.403755",
+    "total_amount": 108.74
+  },
+  {
+    "order_id": "O2048",
+    "customer_id": "C1010",
+    "product": "Nimbus Keyboard",
+    "status": "returned",
+    "last_update": "2025-08-12T19:39:17.403755",
+    "total_amount": 107.34
+  },
+  {
+    "order_id": "O2049",
+    "customer_id": "C1039",
+    "product": "Bolt Charger",
+    "status": "cancelled",
+    "last_update": "2025-07-28T19:39:17.403755",
+    "total_amount": 245.58
+  },
+  {
+    "order_id": "O2050",
+    "customer_id": "C1034",
+    "product": "Bolt Charger",
+    "status": "delivered",
+    "last_update": "2025-07-23T19:39:17.403755",
+    "total_amount": 34.41
+  },
+  {
+    "order_id": "O2051",
+    "customer_id": "C1010",
+    "product": "Bolt Charger",
+    "status": "shipped",
+    "last_update": "2025-07-27T19:39:17.403755",
+    "total_amount": 56.44
+  },
+  {
+    "order_id": "O2052",
+    "customer_id": "C1013",
+    "product": "Luma Lamp",
+    "status": "shipped",
+    "last_update": "2025-08-14T19:39:17.403755",
+    "total_amount": 246.41
+  },
+  {
+    "order_id": "O2053",
+    "customer_id": "C1037",
+    "product": "Bolt Charger",
+    "status": "delivered",
+    "last_update": "2025-07-31T19:39:17.403755",
+    "total_amount": 230.09
+  },
+  {
+    "order_id": "O2054",
+    "customer_id": "C1021",
+    "product": "Terra Bottle",
+    "status": "delivered",
+    "last_update": "2025-08-17T19:39:17.403755",
+    "total_amount": 209.75
+  },
+  {
+    "order_id": "O2055",
+    "customer_id": "C1029",
+    "product": "Luma Lamp",
+    "status": "delivered",
+    "last_update": "2025-07-28T19:39:17.403755",
+    "total_amount": 77.8
+  },
+  {
+    "order_id": "O2056",
+    "customer_id": "C1029",
+    "product": "Aurora Headphones",
+    "status": "processing",
+    "last_update": "2025-08-13T19:39:17.403755",
+    "total_amount": 155.5
+  },
+  {
+    "order_id": "O2057",
+    "customer_id": "C1028",
+    "product": "Bolt Charger",
+    "status": "returned",
+    "last_update": "2025-07-23T19:39:17.403755",
+    "total_amount": 133.18
+  },
+  {
+    "order_id": "O2058",
+    "customer_id": "C1035",
+    "product": "Luma Lamp",
+    "status": "returned",
+    "last_update": "2025-08-12T19:39:17.403755",
+    "total_amount": 194.69
+  },
+  {
+    "order_id": "O2059",
+    "customer_id": "C1010",
+    "product": "Nimbus Keyboard",
+    "status": "shipped",
+    "last_update": "2025-07-24T19:39:17.403755",
+    "total_amount": 233.33
+  }
+]
