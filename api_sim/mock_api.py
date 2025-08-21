@@ -28,7 +28,7 @@ class Order(BaseModel):
     last_update: str
     total_amount: float
 
-# ---------- In-memory stores (filled at startup / reload) ----------
+# ---------- In-memory stores ----------
 CUSTOMERS: dict[str, Customer] = {}
 ORDERS: dict[str, Order] = {}
 
@@ -45,11 +45,21 @@ def load_data() -> None:
     ORDERS = {o["order_id"]: Order(**o) for o in orders_raw}
 
 # ---------- App ----------
-app = FastAPI(
-    title="RetailCo Mock External API",
-    description="Simulated external system for orders/customers. Used by the agent to fetch context.",
-    version="1.0.0",
-)
+app = FastAPI()
+
+# This is the function the agent will call
+def lookup_order(order_id: str):
+    o = ORDERS.get(order_id)
+    if o:
+        return o.dict()
+    return {"status": "not found"}
+
+@app.get("/orders/{order_id}", response_model=Order)
+def get_order(order_id: str):
+    o = ORDERS.get(order_id)
+    if not o:
+        raise HTTPException(404, "Order not found")
+    return o
 
 # CORS so your Streamlit/Gradio UI can call this API from a different port
 app.add_middleware(
@@ -102,19 +112,8 @@ def list_orders(
         vals = [o for o in vals if qlow in o.product.lower()]
     return vals
 
-@app.get("/orders/{order_id}", response_model=Order)
-def get_order(order_id: str):
-    o = ORDERS.get(order_id)
-    if not o:
-        raise HTTPException(404, "Order not found")
-    return o
-
 # ---------- Utility ----------
 @app.post("/__reload")
 def reload_data():
-    """
-    Reload data from JSON files without restarting the server.
-    Useful after regenerating synthetic data.
-    """
     load_data()
     return {"reloaded": True, "orders": len(ORDERS), "customers": len(CUSTOMERS)}
